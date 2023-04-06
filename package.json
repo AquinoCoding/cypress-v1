@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "cypress": "^12.9.0",
+    "date-fns": "^2.29.3",
+    "faker": "^6.6.6",
+    "faker-br": "^0.4.1",
+    "password-generator": "^2.3.2"
+  },
+  "name": "natura-cypress",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
