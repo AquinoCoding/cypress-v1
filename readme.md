@@ -1,7 +1,7 @@
 
 ## Requirements
 
-You need to have nodejs and npm installed to run this project.
+Você precisa ter o nodejs e o npm instalados para executar este projeto.
 
 ## Installation
 
